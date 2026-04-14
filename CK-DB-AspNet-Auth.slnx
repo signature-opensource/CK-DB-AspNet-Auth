@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="nuget.config" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/CK.DB.AspNet.Auth.This.Tests/CK.DB.AspNet.Auth.This.Tests.csproj" />
+  </Folder>
+  <Project Path="CK.DB.AspNet.Auth/CK.DB.AspNet.Auth.csproj" />
+</Solution>
