@@ -5,6 +5,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="CK.AspNet.Auth" Version="30.0.1" />
-    <PackageReference Include="CK.DB.Auth" Version="28.0.2--ci.3" />
+    <PackageReference Include="CK.DB.Auth" Version="28.0.2" />
   </ItemGroup>
 </Project>
