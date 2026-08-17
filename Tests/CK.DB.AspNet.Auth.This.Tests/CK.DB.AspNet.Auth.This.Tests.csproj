@@ -8,7 +8,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="CK.Cris.Engine" Version="0.43.2--ci.1" />
-    <PackageReference Include="CK.DB.User.UserPassword" Version="28.0.3--ci.5" />
+    <PackageReference Include="CK.DB.User.UserPassword" Version="28.0.3--ci.6" />
     <PackageReference Include="CK.DB.User.UserGoogle" Version="28.0.3--ci.1" />
     <PackageReference Include="CK.DB.Tests.NUnit" Version="33.0.3--ci.1" />
     <PackageReference Include="CK.Testing.AspNetServer.Auth" Version="30.0.2--ci.1" />
