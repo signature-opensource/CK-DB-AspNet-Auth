@@ -4,7 +4,7 @@
     <Description>Implements concrete SqlWebFrontAuthService on CK.DB.Auth.</Description>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="CK.AspNet.Auth" Version="31.0.1-juliet.0.ci.3" />
-    <PackageReference Include="CK.DB.Auth" Version="30.0.0-juliet.0.ci.19" />
+    <PackageReference Include="CK.AspNet.Auth" Version="32.0.0-juliet.0.ci.5" />
+    <PackageReference Include="CK.DB.Auth" Version="30.0.0-juliet.0.ci.20" />
   </ItemGroup>
 </Project>
