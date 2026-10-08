@@ -1,13 +1,9 @@
 using System;
 using System.Threading.Tasks;
 using CK.AspNet.Auth;
-// CK.DB.Auth brings the CK.AuthenticationInfo model (CK.Core): this legacy code uses the WebFrontAuth UserLoginResult.
-using UserLoginResult = CK.AspNet.Auth.UserLoginResult;
 using CK.Auth;
 // CK.DB.Auth brings the CK.AuthenticationInfo model (CK.Core): this legacy code uses the CK.Auth types.
 using AuthLevel = CK.Auth.AuthLevel;
-using UserSchemeInfo = CK.Auth.UserSchemeInfo;
-using IUserInfoProvider = CK.Auth.IUserInfoProvider;
 using CK.Core;
 using CK.DB.Auth;
 using CK.SqlServer;

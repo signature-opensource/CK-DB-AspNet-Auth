@@ -8,8 +8,8 @@ namespace CK.DB.Auth;
 /// <summary>
 /// Implements the legacy <see cref="CK.Auth.IUserInfoProvider"/> defined in CK.Auth.Abstractions.
 /// <para>
-/// This was in CK.DB.Auth that now uses the CK.AuthenticationInfo model (where <c>CK.DB.Auth.SqlUserInfoProvider</c>
-/// implements the <c>CK.Core.IUserInfoProvider</c>): the legacy stack is served here.
+/// This was in CK.DB.Auth that now uses the CK.AuthenticationInfo model (where <c>CK.DB.Auth.SqlActorInfoProvider</c>
+/// implements the <c>CK.Core.IActorInfoProvider</c>): the legacy stack is served here.
 /// </para>
 /// </summary>
 public sealed class UserInfoProvider : CK.Auth.IUserInfoProvider
