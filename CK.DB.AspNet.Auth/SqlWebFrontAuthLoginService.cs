@@ -1,4 +1,6 @@
 using CK.AspNet.Auth;
+// CK.DB.Auth brings the CK.AuthenticationInfo model (CK.Core): this legacy code uses the WebFrontAuth UserLoginResult.
+using UserLoginResult = CK.AspNet.Auth.UserLoginResult;
 using System;
 using System.Collections.Generic;
 using CK.Auth;
